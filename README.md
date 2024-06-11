@@ -11,6 +11,6 @@
 
 - 🤝 I’m looking for help with [Vets In DevOps](https://www.vetsindevops.com/)
 
-- 📝 I regularly write articles to support my writing subscribe @ [Medium](http://cobra16.medium.com/membership)
+- 📝 I regularly write articles to support my writing subscribe @ [Medium](http://cobra16.medium.com/)
 
 - 💬 Ask me about **Linux, Cloud, Terraform, Wiz, Nomad, Gov complaince or offense security**
