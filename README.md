@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cobra16319</h1>
-<h3 align="center"> Automation Lover | Gamer | Crossfitter </h3>
+<h3 align="center"> Automation Lover | Gamer | Ultrarunner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobra16319&label=Profile%20views&color=0e75b6&style=flat" alt="cobra16319" /> </p>
 
